@@ -32,6 +32,24 @@ i {
 }
 
 /* parte centrale immagini */
+.position-relative {
+    position: relative;
+}
+
+.position-absolute {
+    position: absolute;
+    left: 10px;
+    bottom: 30px;
+}
+
+.cuore {
+    background-color: white;
+    padding: 8px;
+    position: absolute;
+    top: 30px;
+    right: 0px;
+}
+
 .contenitore-principale {
     margin: auto;
     width: 1400px;
@@ -55,6 +73,14 @@ i {
 
 .vestiti {
     height: 450px;
+}
+
+.background-red {
+    background-color: red;
+}
+
+.background-green {
+    background-color: green;
 }
 
 .red {
