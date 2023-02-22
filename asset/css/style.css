@@ -87,6 +87,10 @@ i {
     color: red;
 }
 
+.cuore:hover span {
+    color: red
+} 
+
 /* parte social */
 footer {
     background-color: rgb(20, 20, 20);
