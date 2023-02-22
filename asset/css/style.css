@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito', sans-serif;
+}
+
+header {
+    background-color: rgb(238, 100, 19);
+    padding: 25px;
+}
+
+.flex {
+    display: flex;
+}
+
+/* logo + opzioni */
+.justify-content {
+    justify-content: space-around;
+}
+
+.logo {
+    height: 25px;
+}
+
+.white{
+    color: white;
+}
+
+i {
+    margin: 3px 3px;
+}
+
+/* parte centrale immagini */
+.contenitore-principale {
+    margin: auto;
+    width: 1400px;
+    padding-top: 50px;
+}
+
+.contenitore-immagini {
+    justify-content: center;
+    justify-content: space-around;
+    margin-bottom: 40px;
+}
+
+.sconto {
+    padding-left: 10px;
+   
+}
+
+.vestiti {
+    height: 450px;
+    
+}
+
+.red {
+    color: red;
+}
