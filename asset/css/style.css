@@ -87,7 +87,7 @@ i {
     color: red;
 }
 
-.cuore:hover span {
+.cuore span:hover {
     color: red
 } 
 
